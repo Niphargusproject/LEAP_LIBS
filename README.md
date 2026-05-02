@@ -4,8 +4,7 @@ A desktop application for the interactive visualization, processing, and export 
 
 Originally developed for **speleothem and geoscience mapping workflows**, it provides band imaging, spectral data extraction, photo co-registration, multi-element composite generation, normalization, interactive masking, baseline inspection, ROI management, and project (experiment) snapshotting — all in a step-by-step tabbed UI.
 
-> Build: **2026-04-02**
-> Author: Christian — Institute of Natural Sciences / Groupe Spéléologique de Bruxelles
+> Author: Christian — Royal Belgian Institute of Natural Sciences
 
 ---
 
@@ -160,7 +159,7 @@ The app ships with a curated database of LIBS emission lines (atomic and ionic) 
 - Common major elements (H, C, N, O, Na, Mg, Al, Si, P, S, Cl, K, Ca, Ti, Mn, Fe, Cu, Zn, Sr, …)
 - **Critical Raw Materials (CRM)** (Be, Co, Cr, Ga, Ge, Hf, In, Mo, Nb, Ni, Pb, Pt, Sb, Sc, Sn, Ta, V, W, Y, Zr, …)
 - **Rare-earth elements** (Ce, Dy, Er, Eu, Gd, Ho, La, Lu, Nd, Pr, Sm, Tb, Tm, Yb)
-- Specialized extended Ca / Mg lines for carbonate / speleothem work
+- Specialized extended Ca / Mg lines for carbonates / speleothem work
 
 Lines can be selected from a **compact interactive periodic-table widget** in the Map Explorer.
 
@@ -173,18 +172,6 @@ It covers each tab in detail, baseline and normalization methods, ROI workflows,
 
 ---
 
-## References
-
-1. Guézenoc, J., Gallet-Budynek, A., & Bousquet, B. (2019). Critical review and advices on spectral-based normalization methods for LIBS quantitative analysis. *Spectrochimica Acta Part B*, **160**, 105688. <https://doi.org/10.1016/j.sab.2019.105688>
-2. Zorov, N.B., Gorbatenko, A.A., Labutin, T.A., & Popov, A.M. (2010). A review of normalization techniques in analytical atomic spectrometry with laser sampling. *Spectrochimica Acta Part B*, **65**(8), 642–657. <https://doi.org/10.1016/j.sab.2010.04.009>
-3. Fabre, C. (2020). Advances in Laser-Induced Breakdown Spectroscopy analysis for geology: A critical review. *Spectrochimica Acta Part B*, **166**, 105799. <https://doi.org/10.1016/j.sab.2020.105799>
-4. Barnes, R.J., Dhanoa, M.S., & Lister, S.J. (1989). Standard normal variate transformation and de-trending of near-infrared diffuse reflectance spectra. *Applied Spectroscopy*, **43**(5), 772–777. <https://doi.org/10.1366/0003702894202201>
-
----
-
-## License
-
-No license file is currently included. Before publishing on GitHub, add a `LICENSE` file (e.g. **MIT**, **BSD-3-Clause**, **GPL-3.0**, or **CC-BY-4.0**) and reference it here.
 
 ---
 
