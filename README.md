@@ -4,8 +4,6 @@ A desktop application for the interactive visualization, processing, and export 
 
 Originally developed for **speleothem and geoscience mapping workflows**, it provides band imaging, spectral data extraction, photo co-registration, multi-element composite generation, normalization, interactive masking, baseline inspection, ROI management, and project (experiment) snapshotting — all in a step-by-step tabbed UI.
 
-> Author: Christian — Royal Belgian Institute of Natural Sciences
-
 ---
 
 ## Table of contents
