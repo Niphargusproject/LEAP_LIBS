@@ -172,4 +172,4 @@ It covers each tab in detail, baseline and normalization methods, ROI workflows,
 
 ## Acknowledgements
 
-Developed at the **Royal Belgian Institute of Natural Sciences** in collaboration with the **Groupe Spéléologique de Bruxelles**.
+Developed at the **Royal Belgian Institute of Natural Sciences** with the help of Claude Code.
