@@ -17,9 +17,6 @@ Originally developed for **speleothem and geoscience mapping workflows**, it pro
 - [Project files & experiments](#project-files--experiments)
 - [Element line database](#element-line-database)
 - [Documentation](#documentation)
-- [References](#references)
-- [License](#license)
-
 ---
 
 ## Features
