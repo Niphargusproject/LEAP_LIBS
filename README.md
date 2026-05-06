@@ -10,7 +10,6 @@ Originally developed for **speleothem and geoscience mapping workflows**, it pro
 
 - [Features](#features)
 - [Workflow](#workflow)
-- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Input data format](#input-data-format)
@@ -50,16 +49,6 @@ The application is organized as a linear tab sequence that mirrors a typical LIB
 7. **Composite** — build multi-element RGB-style overlays.
 8. **Cube Subset** — export a reduced NetCDF cube.
 9. **Cube Utils** — additional cube-wide utilities (e.g. compression).
-
----
-
-## Screenshots
-
-Diagrams and example figures used throughout the in-app **User Guide** (see [`help.html`](help.html)) live in [`assets/`](assets/):
-
-- `assets/help_baseline_methods.png` — comparison of baseline methods
-- `assets/help_normalization_methods.png` — comparison of normalization methods
-- `assets/help_composite_gain.png` — composite layer gain illustration
 
 ---
 
